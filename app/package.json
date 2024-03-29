@@ -1,0 +1,13 @@
+{
+    "name": "pdf-generator",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/awsx": "^0.40.0",
+        "@pulumi/pulumi": "^3.0.0",
+        "chrome-aws-lambda": "^9.1.0"
+    }
+}
